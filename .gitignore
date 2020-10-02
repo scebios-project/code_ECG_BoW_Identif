@@ -1,0 +1,7 @@
+*.mat
+*.pickle
+*.pyc
+*.npz
+
+data/
+!data/**/.gitkeep
