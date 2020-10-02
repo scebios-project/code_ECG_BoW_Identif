@@ -3,5 +3,6 @@
 *.pyc
 *.npz
 
-data/
-!data/**/.gitkeep
+#data/*
+#!data/immutable/CYBHI/hand/.gitkeep
+#!data/immutable/.gitkeep
